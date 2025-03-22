@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Carlos Ribeiro, estudante de programação apaixonado por tecnologia.
 <div align="center">
   <a href="https://github.com/carlosribeirok">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=carlosribeirok&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=carlosribeirok&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosribeirok&layout=compact&langs_count=7&theme=aura"/>
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosribeirok&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,8 +18,8 @@
  
 <div> 
   <a href = "mailto:carlosribeirokf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  ⠀
-  <a href="https://www.linkedin.com/in/carlos-ribeiro-756bb6208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  <a href="https://www.linkedin.com/in/carlos-ribeiro-filho-756bb6208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
